@@ -1,0 +1,33 @@
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 5px solid pink;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    padding: 10px;
+    background-color: black;
+    color: pink;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+a{
+    color: pink;
+    text-decoration: none;
+    
+}
+.center{
+    text-align: center;
+}
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+   
